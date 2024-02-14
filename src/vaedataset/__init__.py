@@ -1,3 +1,3 @@
-from .dataset import InjectVaeDataset, InjectBucketDataset
+from .dataset import InjectVaeDataset, InjectVaeBucketDataset
 
-__all__ = ['InjectVaeDataset', 'InjectBucketDataset']
+__all__ = ['InjectVaeDataset', 'InjectVaeBucketDataset']
